@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/es-impact-calculator/static/css/main.bb69082e.chunk.css",
+    "main.js": "/es-impact-calculator/static/js/main.af7d3a75.chunk.js",
+    "main.js.map": "/es-impact-calculator/static/js/main.af7d3a75.chunk.js.map",
+    "runtime~main.js": "/es-impact-calculator/static/js/runtime~main.3c60403e.js",
+    "runtime~main.js.map": "/es-impact-calculator/static/js/runtime~main.3c60403e.js.map",
+    "static/js/2.2a1fb280.chunk.js": "/es-impact-calculator/static/js/2.2a1fb280.chunk.js",
+    "static/js/2.2a1fb280.chunk.js.map": "/es-impact-calculator/static/js/2.2a1fb280.chunk.js.map",
+    "index.html": "/es-impact-calculator/index.html",
+    "precache-manifest.4de4b25eae71af64f7fe23c04284f95b.js": "/es-impact-calculator/precache-manifest.4de4b25eae71af64f7fe23c04284f95b.js",
+    "service-worker.js": "/es-impact-calculator/service-worker.js",
+    "static/css/main.bb69082e.chunk.css.map": "/es-impact-calculator/static/css/main.bb69082e.chunk.css.map",
+    "static/media/beluga.jpg": "/es-impact-calculator/static/media/beluga.aa7ad411.jpg",
+    "static/media/cars.jpg": "/es-impact-calculator/static/media/cars.40c5ba9a.jpg",
+    "static/media/header.jpg": "/es-impact-calculator/static/media/header.300174f5.jpg",
+    "static/media/trees.jpg": "/es-impact-calculator/static/media/trees.09338ed6.jpg",
+    "static/media/vegan.jpg": "/es-impact-calculator/static/media/vegan.af469000.jpg"
+  }
+}
